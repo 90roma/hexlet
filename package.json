@@ -1,0 +1,19 @@
+{
+  "name": "git_exercise",
+  "version": "1.0.0",
+  "description": "Изменения тест ertyyyyyyyy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/90roma/hexlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/90roma/hexlet/issues"
+  },
+  "homepage": "https://github.com/90roma/hexlet#readme"
+}
