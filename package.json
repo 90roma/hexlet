@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/90roma/hexlet/issues"
   },
-  "homepage": "https://github.com/90roma/hexlet#readme"
+  "homepage": "https://github.com/90roma/hexlet#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
